@@ -1,0 +1,1 @@
+tar -cvzf myfiles.tar.gz myfiles
